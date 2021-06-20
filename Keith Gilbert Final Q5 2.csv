@@ -1,6 +1,6 @@
-﻿Last Name,Hourly Wage,Hours Worked
-Jones,12,32
-Smith,24,5
-Carol,55,32
-Dior,21,45
-Hurt,19,12
+﻿Last Name,Hourly Wage,Hours Worked,Total Pay
+Jones,12,32, $384.0 
+Smith,24,5, $120.0 
+Carol,55,32," $1,760.0 "
+Dior,21,45, $157.5 
+Hurt,19,12, $228.0 
